@@ -1,0 +1,13 @@
+.cards {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin: 20px;
+}
+
+.Home input {
+  margin: 20px 0;
+  width: 400px;
+  padding: 5px;
+}

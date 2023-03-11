@@ -1,0 +1,38 @@
+[
+  {
+    "title": "Fight Club",
+    "year": 1999,
+    "director": "David Fincher",
+    "duration": "2h 19min",
+    "genre": ["Drama"],
+    "score": 7.1,
+    "img": "https://s26162.pcdn.co/wp-content/uploads/2019/07/fightclub_1.jpg"
+  },
+  {
+    "title": "The Lord of the Rings: The Fellowship of the Ring",
+    "year": 2001,
+    "director": "Peter Jackson",
+    "duration": "2h 58min",
+    "genre": ["Adventure", "Drama", "Fantasy"],
+    "score": 8.8,
+    "img": "https://assets-prd.ignimgs.com/2022/08/02/lord-of-the-rings-thumbnail-1659474646743.jpg"
+  },
+  {
+    "title": "Forrest Gump",
+    "year": 1994,
+    "director": "Robert Zemeckis",
+    "duration": "2h 22min",
+    "genre": ["Comedy", "Drama", "Romance"],
+    "score": 8.8,
+    "img": "https://i.blogs.es/45d865/slack-imgs/1366_2000.jpeg"
+  },
+  {
+    "title": "Star Wars: Episode V - The Empire Strikes Back",
+    "year": 1980,
+    "director": "Irvin Kershner",
+    "duration": "2h 4min",
+    "genre": ["Action", "Adventure", "Fantasy", "Sci-Fi"],
+    "score": 8.8,
+    "img": "https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/hc_1440x810/public/media/image/2014/07/356836-star-wars-v-imperio-contraataca-critica.jpg?itok=WLE0PP0H"
+  }
+]
